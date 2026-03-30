@@ -1,7 +1,7 @@
 # SOVA Protocol
 ### Steganographic Offset Verification Attestation
 
-Author: unkknownn12 (Gabriel Carrion)
+Author: Gabriel Luis Carrion
 Date: March 30, 2026  
 Contact: sovaprotocol@proton.me  
 License: CC0 1.0 Universal — Public Domain
