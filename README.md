@@ -2,7 +2,7 @@
 ### Steganographic Offset Verification Attestation
 
 Date: March 30, 2026
-Author: Gabriel Luis Carrion
+Author:
 Contact: sovaprotocol@proton.me  
 License: CC0 1.0 Universal — Public Domain
 
